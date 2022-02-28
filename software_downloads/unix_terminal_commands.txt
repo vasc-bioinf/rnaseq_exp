@@ -1,0 +1,64 @@
+##### Software installation from the unix terminal #####
+
+### FastQC ###
+
+#Checking JRE installation
+java -version
+
+#JRE installation if an error arises from previous command
+sudo apt-get install default-jdk
+java -version
+
+#FastQC installation
+sudo apt-get install fastqc
+
+
+### Cutadapt ###
+#Cutadapt installation
+sudo apt-get install cutadapt
+
+
+### STAR ###
+#STAR installation command:
+sudo apt-get install rna-star
+
+
+### Qualimap ###
+
+#Download zip from http://qualimap.conesalab.org/
+#(Downloaded in /home/user/rnaseq_exp/programs in this example)
+
+#Qualimap installation
+cd /home/user/rnaseq_exp/programs
+unzip qualimap_v2.2.1.zip
+
+
+### Subread (featureCounts) ###
+#Subread v2.0.0 installation commands:
+sudo apt-get install subread
+
+
+### R ###
+#Download from https://cran.r-project.org/
+
+#R packages dependencies installation
+sudo apt-get install libxml2-dev
+sudo apt-get install libcurl4-openssl-dev
+sudo apt-get install r-base-dev
+sudo apt-get install libssl-dev
+sudo apt-get install libopenblas-base
+sudo apt-get install libopenblas-dev
+sudo apt-get install libpq5
+sudo apt-get install libclang-dev
+# If error E: Unmet dependencies. "Try ‘apt --fix-broken install’ with no packages (or specify a solution)" appears, do:
+sudo apt --fix-broken install
+# and then rerun dependencies installation commands
+
+
+### Rstudio ###
+#Download from https://www.rstudio.com/products/rstudio/download/
+#(ersion V1.4.1106 downloaded in /home/user/rnaseq_exp/programs in this example)
+
+#Rstudio installation commands
+cd /home/user/rnaseq_exp/programs
+sudo dpkg -i rstudio-1.4.1106-amd64.deb
