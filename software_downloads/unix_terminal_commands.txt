@@ -1,5 +1,9 @@
 ##### Software installation from the unix terminal #####
 
+#First of all, update package databases:
+sudo apt-get update
+
+
 ### FastQC ###
 
 #Checking JRE installation
