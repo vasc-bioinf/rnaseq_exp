@@ -1,0 +1,4 @@
+#Read Mapping with STAR
+cd /home/user/rnaseq_exp/
+mkdir -p output/star/alignments
+STAR --runThreadN 14 --genomeDir output/star/genome_index/ --readFilesIn output/cutadapt/SRR13086510_trimmed.fastq --outSAMtype BAM SortedByCoordinate --outFileNamePrefix output/star/alignments/SRR13086510
