@@ -1,0 +1,12 @@
+#Trimming single-end reads with Cutadapt
+cd /home/user/rnaseq_exp/
+mkdir output/cutadapt
+cutadapt -a AGATCGGAAGAG -q 20 --minimum-length 1 -o output/cutadapt/SRR13086510_trimmed.fastq raw_data/SRR13086510.fastq
+
+#Trimming paired-end reads with Cutadapt
+cd /home/user/rnaseq_exp/raw_data
+cutadapt -a adapter_forward -A adapter_reverse --minimum-length 1 -o output1.fastq -p output2.fastq input1.fastq input2.fastq
+
+#FastQC on the trimmed data
+cd/home/user/rnaseq_exp
+fastqc output/cutadapt/*.fastq -o output/fastqc/
