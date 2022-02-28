@@ -1,0 +1,4 @@
+#Reference Genome sequence and annotation files decompression:
+cd /home/user/rnaseq_exp/resources
+gunzip Homo_sapiens.GRCh38.104.gtf.gz
+gunzip Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz
