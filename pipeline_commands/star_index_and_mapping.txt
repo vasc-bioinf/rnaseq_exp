@@ -1,0 +1,9 @@
+#Reference Genome Index Generation with STAR
+cd /home/user/rnaseq_exp
+mkdir -p output/star/genome_index
+STAR --runThreadN 12 --runMode genomeGenerate --genomeDir /home/user/rnaseq_exp/output/star/genome_index --genomeFastaFiles /home/user/rnaseq_exp/resources/Homo_sapiens.GRCh38.dna.primary_assembly.fa --sjdbGTFfile /home/user/rnaseq_exp/resources/Homo_sapiens.GRCh38.104.gtf --sjdbOverhang 74 --genomeSAsparseD 2
+
+#Read Mapping with STAR
+cd /home/user/rnaseq_exp/
+mkdir -p output/star/alignments
+STAR --runThreadN 14 --genomeDir output/star/genome_index/ --readFilesIn output/cutadapt/SRR13086510_trimmed.fastq --outSAMtype BAM SortedByCoordinate --outFileNamePrefix output/star/alignments/SRR13086510
