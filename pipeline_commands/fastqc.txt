@@ -1,0 +1,12 @@
+#FastQC quality control of raw data
+
+#First, we create the output directory
+cd /home/user/rnaseq_exp
+mkdir output/fastqc
+
+#Now we run fastqc on every file ending in ‘.fastq’
+fastqc raw_data/*.fastq -o output/fastqc
+
+#Decompressing the report files (optional)
+cd /home/user/rnaseq_exp/output/fastqc
+unzip SRR13086510_fastqc.zip
