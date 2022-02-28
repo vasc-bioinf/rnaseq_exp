@@ -57,8 +57,21 @@ sudo apt --fix-broken install
 
 ### Rstudio ###
 #Download from https://www.rstudio.com/products/rstudio/download/
-#(ersion V1.4.1106 downloaded in /home/user/rnaseq_exp/programs in this example)
+#(Version V1.4.1106 was downloaded in /home/user/rnaseq_exp/programs in this example)
 
 #Rstudio installation commands
 cd /home/user/rnaseq_exp/programs
 sudo dpkg -i rstudio-1.4.1106-amd64.deb
+
+
+### GSEA ###
+#Download from http://www.gsea-msigdb.org/gsea/index.jsp
+#(Version 4.1.0 was downloaded in /home/user/rnaseq_exp/programs in this example)
+
+#Decompression
+cd /home/user/rnaseq_exp/programs
+unzip GSEA_Linux_4.1.0.zip
+
+#Launch
+cd /home/user/rnaseq_exp/programs/GSEA_Linux_4.1.0
+bash gsea.sh
