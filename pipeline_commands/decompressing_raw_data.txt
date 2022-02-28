@@ -1,0 +1,6 @@
+#Decompressing raw data files:
+cd /home/user/rnaseq_exp/raw_data
+unzip ena_files.zip
+mv ./*/*.gz .
+gunzip *.gz
+rmdir *
