@@ -1,0 +1,37 @@
+##### R packages installation #####
+
+#Open RStudio (from unix terminal)
+cd ~
+rstudio
+
+#From now on, commands shown are run from Rstudio console:
+
+
+### Bioconductor ###
+
+if (!requireNamespace("BiocManager", quietly = TRUE))
+install.packages("BiocManager")
+
+BiocManager::install(version = "3.13")
+
+
+### DESeq2 ###
+BiocManager::install("DESeq2")
+
+### clusterProfiler ###
+BiocManager::install("clusterProfiler")
+
+### pathview ###
+BiocManager::install("pathview")
+
+### ReactomePA ###
+BiocManager::install("ReactomePA")
+
+### apeglm ###
+BiocManager::install("apeglm")
+
+### biomaRt ###
+BiocManager::install("biomaRt")
+
+### ggplot2 ###
+install.packages("ggplot2")
