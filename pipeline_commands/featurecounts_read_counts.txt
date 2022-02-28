@@ -1,0 +1,12 @@
+#Quantification of gene expression level with featureCounts for single-read data.
+
+#Single-ended data
+mkdir /home/user/rnaseq_exp/output/featurecounts
+cd /home/user/rnaseq_exp/output/star/alignments
+featureCounts -s 2 -t exon -g gene_id -a /home/user/rnaseq_exp/resources/ Homo_sapiens.GRCh38.104.gtf -o /home/user/rnaseq_exp/output/featurecounts/counts.txt SRR13086510Aligned.sortedByCoord.out.bam SRR13086511Aligned.sortedByCoord.out.bam SRR13086512Aligned.sortedByCoord.out.bam SRR13086513Aligned.sortedByCoord.out.bam SRR13086514Aligned.sortedByCoord.out.bam SRR13086515Aligned.sortedByCoord.out.bam
+
+#Paired-ended data
+#Quantification of gene expression level with featureCounts for paired-end data.
+mkdir /home/user/rnaseq_exp/output/featurecounts
+cd /home/user/rnaseq_exp/output/star/alignments
+featureCounts -p -s 2 -t exon -g gene_id -a /home/user/rnaseq_exp/resources/ Homo_sapiens.GRCh38.104.gtf -o /home/user/rnaseq_exp/output/featurecounts/counts.txt SRR13086510Aligned.sortedByCoord.out.bam SRR13086511Aligned.sortedByCoord.out.bam SRR13086512Aligned.sortedByCoord.out.bam SRR13086513Aligned.sortedByCoord.out.bam SRR13086514Aligned.sortedByCoord.out.bam SRR13086515Aligned.sortedByCoord.out.bam
