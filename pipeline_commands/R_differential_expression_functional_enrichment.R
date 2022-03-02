@@ -1,9 +1,3 @@
-#Ensure that the new directory for DESeq2 outputs has been created via the terminal command line:
-mkdir /home/user/rnaseq_exp/output/deseq2_funcenrich
-mkdir /home/user/rnaseq_exp/output/pathview
-
-
-
 # SECTION 3.8 DIFFERENTIAL EXPRESSION ANALYSIS: DESEQ2
 
 # 3.8.1 WORKSPACE PREPARATION
