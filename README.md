@@ -4,6 +4,10 @@ A user-friendly bioinformatics workflow to take raw data produced by RNA sequenc
 
 The full document can be found under Chapter 29 <https://doi.org/10.1007/978-1-0716-2059-5_29> of Angiogenesis Methods and Protocols 2022 <https://doi.org/10.1007/978-1-0716-2059-5>.
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+
 ## Bioinformatics workflow
 
 The steps of the workflow are shown in the flowchart. The tools used are in yellow boxes, the data required/produced in white boxes and file formats in purple, blue, dark green, orange and grey boxes. Results obtained are in light green boxes.
