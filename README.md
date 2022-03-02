@@ -22,7 +22,7 @@ FastQC | https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
 Cutadapt | https://github.com/marcelm/cutadapt
 STAR | https://github.com/alexdobin/STAR
 Qualimap | http://qualimap.conesalab.org/
-Subread | (featureCounts) http://subread.sourceforge.net/
+Subread (featureCounts) | http://subread.sourceforge.net/
 R | https://www.r-project.org/
 Rstudio | https://www.rstudio.com/
 DESeq2 | https://bioconductor.org/packages/release/bioc/html/DESeq2.html
