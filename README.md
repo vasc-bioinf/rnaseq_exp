@@ -1,3 +1,5 @@
-# rnaseq_exp
+# Endothelial Cell RNA-seq Data: Differential Expression and Functional Enrichment Analyses to Study Phenotypic Switching
 
-# New
+A user-friendly bioinformatics workflow to take raw data produced by RNA sequencing to interpretable results.
+
+The full document can be found under Chapter 29 <https://doi.org/10.1007/978-1-0716-2059-5_29> of Angiogenesis Methods and Protocols 2022 <https://doi.org/10.1007/978-1-0716-2059-5>
