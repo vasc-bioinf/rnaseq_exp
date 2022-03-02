@@ -10,3 +10,28 @@ The steps of the workflow are shown in the flowchart. The tools used are in yell
 
 
 ![500886_1_En_29_Fig1_HTML](https://user-images.githubusercontent.com/85964718/156379269-fb2cfee2-a446-4f7c-bf31-7c8e8771cc55.png)
+
+## Software and R packages.
+
+Below is a list of the software and R packages used in workflow with the corresponding URL.
+
+Software
+Ubuntu https://ubuntu.com/
+FastQC https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
+Cutadapt https://github.com/marcelm/cutadapt
+STAR https://github.com/alexdobin/STAR
+Qualimap http://qualimap.conesalab.org/
+Subread (featureCounts) http://subread.sourceforge.net/
+R https://www.r-project.org/
+Rstudio https://www.rstudio.com/
+DESeq2 https://bioconductor.org/packages/release/bioc/html/DESeq2.html
+clusterProfiler https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html
+pathview http://www.bioconductor.org/packages/release/bioc/html/pathview.html
+ReactomePA https://bioconductor.org/packages/release/bioc/html/ReactomePA.html
+enrichplot https://bioconductor.org/packages/release/bioc/html/enrichplot.html
+biomaRt https://bioconductor.org/packages/release/bioc/html/biomaRt.html
+ggplot2 https://ggplot2.tidyverse.org/
+GO http://geneontology.org/
+KEGG https://www.genome.jp/kegg/
+Reactome https://reactome.org/
+GSEA https://www.gsea-msigdb.org/gsea/index.jsp
