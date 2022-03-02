@@ -21,7 +21,7 @@ The published protocol can be found under [Chapter 29](<https://doi.org/10.1007/
 
 <br />
 
-## Table of contents
+## Table of Contents
 <ol>
   <li>
     <a href="https://github.com/vasc-bioinf/rnaseq_exp/blob/main/README.md#bioinformatics-workflow">Bioinformatics workflow</a>
@@ -38,7 +38,7 @@ The published protocol can be found under [Chapter 29](<https://doi.org/10.1007/
 
 <br />
   
-## Bioinformatics workflow
+## Bioinformatics Workflow
 
 The steps of the workflow are shown in the flowchart. The tools used are in yellow boxes, the data required/produced in white boxes and file formats in purple, blue, dark green, orange and grey boxes. Results obtained are in light green boxes.
 
@@ -49,7 +49,7 @@ The steps of the workflow are shown in the flowchart. The tools used are in yell
 </div>
 <br />
 
-## Software and R packages
+## Software and R Packages
 
 Below is a list of the software and R packages used in workflow with the corresponding URL.
 
@@ -81,7 +81,7 @@ GSEA | https://www.gsea-msigdb.org/gsea/index.jsp
 <div>
 <br />
 
-## Workspace preparation
+## Workspace Preparation
 
 The commands used in the workflow, as seen in [software_downloads](software_downloads/) and [pipeline_commands](pipeline_commands/) use relevant file paths. Throughout the workflow, when a path containing "user" is shown (e.g., /home/user/rnaseq_exp), "user" represents the user's name and should be replaced by it.
 
@@ -108,9 +108,15 @@ Key directories to be made prior to software installation and raw data download.
    ```
 <br />
 
-## Software installation
+## Software Installation
 The required software can be installed by following the commands in the files within the [software_downloads](software_downloads/) directory.
 
 Refer to the [published protocol](<https://doi.org/10.1007/978-1-0716-2059-5_29>) for more information.
 
 <br />
+
+
+## Raw Reads Download
+
+## Reference Genome Download
+
