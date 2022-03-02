@@ -4,6 +4,7 @@ A user-friendly bioinformatics workflow to take raw data produced by RNA sequenc
 
 The published protocol can be found under [Chapter 29](<https://doi.org/10.1007/978-1-0716-2059-5_29>) of [Angiogenesis Methods and Protocols 2022](<https://doi.org/10.1007/978-1-0716-2059-5>).
 
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -18,7 +19,21 @@ The published protocol can be found under [Chapter 29](<https://doi.org/10.1007/
       <a href="https://github.com/vasc-bioinf/rnaseq_exp#workspace-preparation">Workspace preparation</a>
     </details>
 
-  
+<br />
+
+## Table of contents
+<ol>
+  <li>
+    <a href="https://github.com/vasc-bioinf/rnaseq_exp/blob/main/README.md#bioinformatics-workflow">Bioinformatics workflow</a>
+  </li>
+  <li>
+    <a href="https://github.com/vasc-bioinf/rnaseq_exp/blob/main/README.md#software-and-r-packages">Software and R packages</a>
+  </li>
+  <li>
+    <a href="https://github.com/vasc-bioinf/rnaseq_exp#workspace-preparation">Workspace preparation</a>
+  </ol>
+
+<br />
   
 ## Bioinformatics workflow
 
@@ -88,9 +103,11 @@ Key directories to be made prior to software installation and raw data download.
    ```sh
    mkdir output raw_data resources programs
    ```
-
+<br />
 
 ## Software installation
 The required software can be installed by following the commands in the files within the [software_downloads](software_downloads/) directory.
 
 Refer to the [published protocol](<https://doi.org/10.1007/978-1-0716-2059-5_29>) for more information.
+
+<br />
