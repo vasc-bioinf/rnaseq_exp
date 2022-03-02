@@ -9,7 +9,7 @@ The full document can be found under Chapter 29 <https://doi.org/10.1007/978-1-0
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="bioinformatics-workflow">Bioinformatics workflow</a>
+      <a href="https://github.com/vasc-bioinf/rnaseq_exp/blob/main/README.md#bioinformatics-workflow">Bioinformatics workflow</a>
     </details>
 
 ## Bioinformatics workflow
