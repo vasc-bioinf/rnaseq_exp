@@ -24,7 +24,7 @@ The published protocol can be found under [Chapter 29](<https://doi.org/10.1007/
 ## Table of contents
 <ol>
   <li>
-    [Bioinformatics workflow](## Bioinformatics-workflow)
+    <a href="https://github.com/vasc-bioinf/rnaseq_exp/blob/main/README.md#bioinformatics-workflow">Bioinformatics workflow</a>
   </li>
   <li>
     <a href="https://github.com/vasc-bioinf/rnaseq_exp/blob/main/README.md#software-and-r-packages">Software and R packages</a>
