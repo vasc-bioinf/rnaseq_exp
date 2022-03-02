@@ -16,9 +16,10 @@ The steps of the workflow are shown in the flowchart. The tools used are in yell
 Below is a list of the software and R packages used in workflow with the corresponding URL.
 
 Software
-Ubuntu https://ubuntu.com/
 
+Ubuntu https://ubuntu.com/
 FastQC https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
+
 Cutadapt https://github.com/marcelm/cutadapt
 
 STAR https://github.com/alexdobin/STAR
