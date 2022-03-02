@@ -17,7 +17,7 @@ Below is a list of the software and R packages used in workflow with the corresp
 
 Software
 
-Ubuntu https://ubuntu.com/
+Ubuntu https://ubuntu.com/ 
 FastQC https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
 
 Cutadapt https://github.com/marcelm/cutadapt
