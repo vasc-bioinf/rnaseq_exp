@@ -71,22 +71,22 @@ The commands used in the workflow, as seen in [software_downloads](software_down
 
 Key directories to be made prior to software installation and raw data download.
 
-Change directory to 'user'.
-  ```sh
-  cd /home/user
-  ```
+1. Change directory to 'user'
+   ```sh
+   cd /home/user
+   ```
   
-Make a new directory called 'rnaseq_exp'
-  ```sh
-  mkdir rnaseq_exp
-  ```
+2. Make a new directory called 'rnaseq_exp'
+   ```sh
+   mkdir rnaseq_exp
+   ```
 
-Change directory to 'rnaseq_exp'
-  ```sh
-  cd rnaseq_exp
-  ```
+3. Change directory to 'rnaseq_exp'
+   ```sh
+   cd rnaseq_exp
+   ```
   
-Make new directories called 'output', 'raw_data', resources', 'programs'
-  ```sh
-  mkdir output raw_data resources programs
-  ```
+4. Make new directories called 'output', 'raw_data', resources', 'programs'
+   ```sh
+   mkdir output raw_data resources programs
+   ```
