@@ -1,8 +1,8 @@
 # Endothelial Cell RNA-seq Data: Differential Expression and Functional Enrichment Analyses to Study Phenotypic Switching
 
-A user-friendly bioinformatics workflow to take raw data produced by RNA sequencing to interpretable results.
+A user-friendly bioinformatics workflow to take raw data produced by RNA sequencing to interpretable results. The workflow described here was performed using Ubuntu 20.04.2 LTS, a Linux distribution. 
 
-The full document can be found under [Chapter 29](<https://doi.org/10.1007/978-1-0716-2059-5_29>) of [Angiogenesis Methods and Protocols 2022](<https://doi.org/10.1007/978-1-0716-2059-5>).
+The published protocol can be found under [Chapter 29](<https://doi.org/10.1007/978-1-0716-2059-5_29>) of [Angiogenesis Methods and Protocols 2022](<https://doi.org/10.1007/978-1-0716-2059-5>).
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -64,8 +64,6 @@ GSEA | https://www.gsea-msigdb.org/gsea/index.jsp
 <br />
 
 ## Workspace preparation
-
-The workflow described here was performed using Ubuntu 20.04.2 LTS, a Linux distribution. 
 
 The commands used in the workflow, as seen in [software_downloads](software_downloads/) and [pipeline_commands](pipeline_commands/) use relevant file paths. Throughout the workflow, when a path containing "user" is shown (e.g., /home/user/rnaseq_exp), "user" represents the user's name and should be replaced by it.
 
