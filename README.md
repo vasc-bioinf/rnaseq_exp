@@ -13,6 +13,9 @@ The full document can be found under [Chapter 29](<https://doi.org/10.1007/978-1
     </li>
     <li>
       <a href="https://github.com/vasc-bioinf/rnaseq_exp/blob/main/README.md#software-and-r-packages">Software and R packages</a>
+    </li>
+    <li>
+      <a href="https://github.com/vasc-bioinf/rnaseq_exp#workspace-preparation">Workspace preparation</a>
     </details>
 
   
@@ -70,8 +73,8 @@ Key directories to be made prior to software installation and raw data download.
 
 ```sh
 #Preparing the workspace
-$ cd /home/user
-$ mkdir rnaseq_exp
-$ cd rnaseq_exp
-$ mkdir output raw_data resources programs
+cd /home/user
+mkdir rnaseq_exp
+cd rnaseq_exp
+mkdir output raw_data resources programs
 ```
