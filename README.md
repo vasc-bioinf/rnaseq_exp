@@ -94,3 +94,4 @@ Key directories to be made prior to software installation and raw data download.
 
 ## Software installation
 The required software can be installed by following the commands in the files within the [software_downloads](software_downloads/) directory.
+  Refer to the [published protocol](<https://doi.org/10.1007/978-1-0716-2059-5_29>) for more information.
