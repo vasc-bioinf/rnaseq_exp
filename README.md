@@ -53,6 +53,9 @@ The steps of the workflow are shown in the flowchart. The tools used are in yell
   <img src="images/bioinformatics_workflow.png">
   </a>
 </div>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <br />
 
 ## Software and R Packages
@@ -85,6 +88,9 @@ GSEA | https://www.gsea-msigdb.org/gsea/index.jsp
   
 </div>
 <div>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <br />
 
 ## Workspace Preparation
@@ -112,6 +118,9 @@ Key directories to be made prior to software installation and raw data download.
    ```sh
    mkdir output raw_data resources programs
    ```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <br />
 
 ## Software Installation
@@ -119,10 +128,18 @@ The required software can be installed by following the commands in the files wi
 
 Refer to the [published protocol](<https://doi.org/10.1007/978-1-0716-2059-5_29>) for more information.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <br />
 
 
 ## Raw Reads Download
 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Reference Genome Download
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
