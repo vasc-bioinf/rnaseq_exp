@@ -7,6 +7,9 @@ The full document can be found under Chapter 29 <https://doi.org/10.1007/978-1-0
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
+  <ol>
+    <li>
+    </details>
 
 ## Bioinformatics workflow
 
