@@ -90,3 +90,7 @@ Key directories to be made prior to software installation and raw data download.
    ```sh
    mkdir output raw_data resources programs
    ```
+
+
+## Software installation
+The required software can be installed by following the commands in the files within the [software_downloads](software_downloads/) directory.
