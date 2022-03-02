@@ -23,12 +23,11 @@ The steps of the workflow are shown in the flowchart. The tools used are in yell
 
 <br />
 <div align="center">
-  <img src="![500886_1_En_29_Fig1_HTML](https://user-images.githubusercontent.com/85964718/156379269-fb2cfee2-a446-4f7c-bf31-7c8e8771cc55.png)">
+  <img src="images/bioinformatics_workflow.png">
   </a>
 </div>
+<br />
 
-  
-  
 ## Software and R packages
 
 Below is a list of the software and R packages used in workflow with the corresponding URL.
