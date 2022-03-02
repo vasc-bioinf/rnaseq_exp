@@ -33,6 +33,7 @@ The steps of the workflow are shown in the flowchart. The tools used are in yell
 Below is a list of the software and R packages used in workflow with the corresponding URL.
 
 <div align="center">
+  
 | Software | URL |
 | --- | --- |
 Ubuntu | https://ubuntu.com/
@@ -54,9 +55,11 @@ GO | http://geneontology.org/
 KEGG | https://www.genome.jp/kegg/
 Reactome | https://reactome.org/
 GSEA | https://www.gsea-msigdb.org/gsea/index.jsp
+  
 </div>
+<div>
 <br />
 
 ## Workspace preparation
 
-The commands used in workflow, as seen in [software_downloads](software_downloads/) and [pipeline_commands](pipeline_commands/)
+The commands used in the workflow, as seen in [software_downloads](software_downloads/) and [pipeline_commands](pipeline_commands/) 
