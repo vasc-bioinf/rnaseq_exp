@@ -1,0 +1,5 @@
+#Create directory for DESeq2 and functinal enrichment outputs.
+mkdir /home/user/rnaseq_exp/output/deseq2_funcenrich
+
+#Create a directory for pathview outputs.
+mkdir /home/user/rnaseq_exp/output/pathview
