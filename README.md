@@ -10,13 +10,13 @@ The published protocol can be found under [Chapter 29](<https://doi.org/10.1007/
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="https://github.com/vasc-bioinf/rnaseq_exp/blob/main/README.md#bioinformatics-workflow">Bioinformatics workflow</a>
+      <a href="https://github.com/vasc-bioinf/rnaseq_exp/blob/main/README.md#bioinformatics-workflow">Bioinformatics Workflow</a>
     </li>
     <li>
-      <a href="https://github.com/vasc-bioinf/rnaseq_exp/blob/main/README.md#software-and-r-packages">Software and R packages</a>
+      <a href="https://github.com/vasc-bioinf/rnaseq_exp/blob/main/README.md#software-and-r-packages">Software and R Packages</a>
     </li>
     <li>
-      <a href="https://github.com/vasc-bioinf/rnaseq_exp#workspace-preparation">Workspace preparation</a>
+      <a href="https://github.com/vasc-bioinf/rnaseq_exp#workspace-preparation">Workspace Preparation</a>
     </details>
 
 <br />
@@ -24,16 +24,22 @@ The published protocol can be found under [Chapter 29](<https://doi.org/10.1007/
 ## Table of Contents
 <ol>
   <li>
-    <a href="https://github.com/vasc-bioinf/rnaseq_exp/blob/main/README.md#bioinformatics-workflow">Bioinformatics workflow</a>
+    <a href="https://github.com/vasc-bioinf/rnaseq_exp/blob/main/README.md#bioinformatics-workflow">Bioinformatics Workflow</a>
   </li>
   <li>
-    <a href="https://github.com/vasc-bioinf/rnaseq_exp/blob/main/README.md#software-and-r-packages">Software and R packages</a>
+    <a href="https://github.com/vasc-bioinf/rnaseq_exp/blob/main/README.md#software-and-r-packages">Software and R Packages</a>
   </li>
   <li>
-    <a href="https://github.com/vasc-bioinf/rnaseq_exp#workspace-preparation">Workspace preparation</a>
+    <a href="https://github.com/vasc-bioinf/rnaseq_exp#workspace-preparation">Workspace Preparation</a>
   </li>
   <li>
-    <a href="https://github.com/vasc-bioinf/rnaseq_exp#software-installation">Software installation</a>
+    <a href="https://github.com/vasc-bioinf/rnaseq_exp#software-installation">Software Installation</a>
+  </li>
+  <li>
+    <a href="https://github.com/vasc-bioinf/rnaseq_exp/blob/main/README.md#raw-reads-download">Raw Reads Download</a>
+  </li>
+  <li>
+    <a href="https://github.com/vasc-bioinf/rnaseq_exp/blob/main/README.md#reference-genome-download">Reference Genome Download</a>
   </ol>
 
 <br />
