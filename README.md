@@ -53,3 +53,9 @@ GO | http://geneontology.org/
 KEGG | https://www.genome.jp/kegg/
 Reactome | https://reactome.org/
 GSEA | https://www.gsea-msigdb.org/gsea/index.jsp
+
+<br />
+
+## Workspace preparation
+
+The commands used in workflow, as seen in [software_downloads](rnaseq_exp/software_downloads) and [pipeline_commands](rnaseq_exp/pipeline_commands)
