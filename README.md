@@ -16,12 +16,15 @@ The full document can be found under Chapter 29 <https://doi.org/10.1007/978-1-0
     </details>
 
   
+  
 ## Bioinformatics workflow
 
 The steps of the workflow are shown in the flowchart. The tools used are in yellow boxes, the data required/produced in white boxes and file formats in purple, blue, dark green, orange and grey boxes. Results obtained are in light green boxes.
 
-
-  
+<br />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/85964718/156379269-fb2cfee2-a446-4f7c-bf31-7c8e8771cc55.png">
+  </a>
 ![500886_1_En_29_Fig1_HTML](https://user-images.githubusercontent.com/85964718/156379269-fb2cfee2-a446-4f7c-bf31-7c8e8771cc55.png)
 
   
