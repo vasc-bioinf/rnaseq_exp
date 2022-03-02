@@ -58,4 +58,4 @@ GSEA | https://www.gsea-msigdb.org/gsea/index.jsp
 
 ## Workspace preparation
 
-The commands used in workflow, as seen in [software_downloads](src="rnaseq_exp/software_downloads") and [pipeline_commands](rnaseq_exp/pipeline_commands)
+The commands used in workflow, as seen in [software_downloads](src="rnaseq_exp/software_downloads/") and [pipeline_commands](rnaseq_exp/pipeline_commands/)
