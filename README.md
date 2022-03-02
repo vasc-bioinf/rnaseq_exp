@@ -4,4 +4,4 @@ A user-friendly bioinformatics workflow to take raw data produced by RNA sequenc
 
 The full document can be found under Chapter 29 <https://doi.org/10.1007/978-1-0716-2059-5_29> of Angiogenesis Methods and Protocols 2022 <https://doi.org/10.1007/978-1-0716-2059-5>
 
-<500886_1_En_29_Fig1_HTML src="https://user-images.githubusercontent.com/85964718/156362033-6f8853ef-8eef-4ddb-ab4b-654e2c48aa65.png">
+<500886_1_En_29_Fig1_HTML src="https://user-images.githubusercontent.com/85964718/156362033-6f8853ef-8eef-4ddb-ab4b-654e2c48aa65.png
