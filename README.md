@@ -31,6 +31,9 @@ The published protocol can be found under [Chapter 29](<https://doi.org/10.1007/
   </li>
   <li>
     <a href="https://github.com/vasc-bioinf/rnaseq_exp#workspace-preparation">Workspace preparation</a>
+  </li>
+  <li>
+    <a href="https://github.com/vasc-bioinf/rnaseq_exp#software-installation">Software installation</a>
   </ol>
 
 <br />
