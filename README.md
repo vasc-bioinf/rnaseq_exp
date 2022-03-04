@@ -50,6 +50,8 @@ The steps of the workflow are shown in the flowchart. The tools used are in yell
 
 Below is a list of the software and R packages used in workflow with the corresponding URL.
 
+<br />
+
 <div align="center">
   
 | Software | URL |
