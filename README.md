@@ -111,7 +111,7 @@ Key directories to be made prior to software installation and raw data download.
 ## Software Installation
 The required software and R packages can be installed by following the commands in the files within the [software_downloads](software_downloads/) directory.
 
-Refer to the [published protocol](<https://doi.org/10.1007/978-1-0716-2059-5_29>) for more information.
+Refer to section 3.2 of the [published protocol](<https://doi.org/10.1007/978-1-0716-2059-5_29>) for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
