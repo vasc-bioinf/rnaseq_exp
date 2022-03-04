@@ -100,7 +100,6 @@ Key directories to be made prior to software installation and raw data download.
    mkdir output raw_data resources programs
    ```
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <br />
 
