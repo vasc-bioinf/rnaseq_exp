@@ -39,8 +39,6 @@ The steps of the workflow are shown in the flowchart. The tools used are in yell
   </a>
 </div>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <br />
 
 ## Software and R Packages
@@ -73,8 +71,6 @@ GSEA | https://www.gsea-msigdb.org/gsea/index.jsp
   
 </div>
 <div>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <br />
 
@@ -113,8 +109,6 @@ The required software and R packages can be installed by following the commands 
 
 Refer to section 3.2 of the [published protocol](<https://doi.org/10.1007/978-1-0716-2059-5_29>) for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <br />
 
 
@@ -122,7 +116,6 @@ Refer to section 3.2 of the [published protocol](<https://doi.org/10.1007/978-1-
 
 A publicly available HUVEC dataset is used from a published study [Andrade J et al (2021) Control of endothelial quiescence by FOXO-regulated metabolites. Nat Cell Biol 23(4):413–423](<https://www.nature.com/articles/s41556-021-00637-6>)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Reference Genome Download
 
