@@ -1,8 +1,0 @@
--Welcome message: explain what this is (chapter name + book name included) and what it contains
--Index you can click on to go to each part
--Little paragraph in each section
--Links to software that cant be installed via terminal
-
-
-Username as parameter in scripts
-add all possible files, but when we are finished including the scripts
