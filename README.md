@@ -2,7 +2,7 @@
 
 A user-friendly bioinformatics workflow to take raw data produced by RNA sequencing to interpretable results. The workflow described here was performed using Ubuntu 20.04.2 LTS, a Linux distribution. A 64-bit machine with at least 32Gb RAM is recommended for the majority of the steps in the workflow.
 
-The published protocol can be found under [Chapter 29](<https://doi.org/10.1007/978-1-0716-2059-5_29>) of [Angiogenesis Methods and Protocols 2022](<https://doi.org/10.1007/978-1-0716-2059-5>).
+The published protocol can be found under [<ins>Chapter 29</ins>](<https://doi.org/10.1007/978-1-0716-2059-5_29>) of [<ins>Angiogenesis Methods and Protocols 2022</ins>](<https://doi.org/10.1007/978-1-0716-2059-5>).
 
 <br />
 
