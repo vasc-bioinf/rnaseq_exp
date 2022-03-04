@@ -4,21 +4,6 @@ A user-friendly bioinformatics workflow to take raw data produced by RNA sequenc
 
 The published protocol can be found under [Chapter 29](<https://doi.org/10.1007/978-1-0716-2059-5_29>) of [Angiogenesis Methods and Protocols 2022](<https://doi.org/10.1007/978-1-0716-2059-5>).
 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="https://github.com/vasc-bioinf/rnaseq_exp/blob/main/README.md#bioinformatics-workflow">Bioinformatics Workflow</a>
-    </li>
-    <li>
-      <a href="https://github.com/vasc-bioinf/rnaseq_exp/blob/main/README.md#software-and-r-packages">Software and R Packages</a>
-    </li>
-    <li>
-      <a href="https://github.com/vasc-bioinf/rnaseq_exp#workspace-preparation">Workspace Preparation</a>
-    </details>
-
 <br />
 
 ## Table of Contents
