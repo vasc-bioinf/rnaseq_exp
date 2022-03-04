@@ -1,3 +1,7 @@
+
+<img align="right" src="https://user-images.githubusercontent.com/85964718/156792644-1da58b56-f4f4-4d95-91c6-5dc4a337a694.png">
+
+
 # Endothelial Cell RNA-seq Data: Differential Expression and Functional Enrichment Analyses to Study Phenotypic Switching
 
 A user-friendly bioinformatics workflow to take raw data produced by RNA sequencing to interpretable results. The workflow described here was performed using Ubuntu 20.04.2 LTS, a Linux distribution. A 64-bit machine with at least 32Gb RAM is recommended for the majority of the steps in the workflow.
