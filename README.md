@@ -120,7 +120,7 @@ Refer to the [published protocol](<https://doi.org/10.1007/978-1-0716-2059-5_29>
 
 ## Raw Reads Download
 
-A publicly available HUVEC dataset is used from a published study (Andrade J et al (2021) Control of endothelial quiescence by FOXO-regulated metabolites. Nat Cell Biol 23(4):413–423).
+A publicly available HUVEC dataset is used from a published study [Andrade J et al (2021) Control of endothelial quiescence by FOXO-regulated metabolites. Nat Cell Biol 23(4):413–423](<https://www.nature.com/articles/s41556-021-00637-6>)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
