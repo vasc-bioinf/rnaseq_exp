@@ -27,7 +27,7 @@ The published protocol can be found under [Chapter 29](<https://doi.org/10.1007/
     <a href="https://github.com/vasc-bioinf/rnaseq_exp/blob/main/README.md#reference-genome-download">Reference Genome Download</a>
   </li>
   <li>
-    <a href="
+    <a href="https://github.com/vasc-bioinf/rnaseq_exp/blob/main/README.md#begin">Begin!</a>
   </ol>
 
 <br />
@@ -130,12 +130,32 @@ Refer to section 3.2.9 of the [published protocol](<https://doi.org/10.1007/978-
 
 <br />
 
+The reference genome in FASTA format and the annotation of the reference genome in GTF or GFF format are required.
+
+Both can be obtained from [Ensembl FTP Download](<http://www.ensembl.org/info/data/ftp/index.html>) via an FTP client.
+
+See the figure below to download the required files. Save in the resources directory created above.
+
+Follow the commands in [pipeline_commands/2_ref_genome_anno_decompression.txt](<https://github.com/vasc-bioinf/rnaseq_exp/blob/main/pipeline_commands/2_ref_genome_anno_decompression.txt>) to decompress the genome files.
+
+Refer to section 3.2.10 of the [published protocol](<https://doi.org/10.1007/978-1-0716-2059-5_29>) for more information.
+
+<br />
+  
 <div align="center">
   <img src="images/reference_genome_download.png">
   </a>
 </div>
 
+<br />
+
 ## Begin!
+
+Once the required software and R packages have been installed, the workspace created, the raw reads and the genome files downloaded and decompressed the analysis can begin.
+
+Follow the command files in [pipeline_commands](<https://github.com/vasc-bioinf/rnaseq_exp/tree/main/pipeline_commands>) in conjunction with the [published protocol](<https://doi.org/10.1007/978-1-0716-2059-5_29>) to successfully complete the analysis.
+
+The Notes section of the [published protocol](<https://doi.org/10.1007/978-1-0716-2059-5_29>), as well as the main text comments on errors that may arise throughout the workflow. These may help with troubleshooting.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
