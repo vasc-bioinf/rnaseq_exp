@@ -125,7 +125,12 @@ Refer to section 3.2.9 of the [published protocol](<https://doi.org/10.1007/978-
 
 ## Reference Genome Download
 
+<br />
 
+<div align="center">
+  <img src="images/reference_genome_download.png">
+  </a>
+</div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
