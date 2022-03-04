@@ -115,11 +115,16 @@ Refer to section 3.2 of the [published protocol](<https://doi.org/10.1007/978-1-
 
 A publicly available HUVEC dataset was used from a published study [Andrade J et al (2021) Control of endothelial quiescence by FOXO-regulated metabolites. Nat Cell Biol 23(4):413–423](<https://www.nature.com/articles/s41556-021-00637-6>).
 
-The raw data in FASTQ format was obtained from the European Nucleotide Archive project [PRJNA679567](https://www.ebi.ac.uk/ena/browser/view/PRJNA679567?show=reads).
+The raw data in FASTQ format was obtained from the European Nucleotide Archive project [PRJNA679567](https://www.ebi.ac.uk/ena/browser/view/PRJNA679567?show=reads). Select the 'Download All' button above the 'FASTQ FTP' column and save in the raw_data directory created above.
+
+Follow the commands in [pipeline_commands/1_raw_data_decompression.txt](<https://github.com/vasc-bioinf/rnaseq_exp/blob/main/pipeline_commands/1_raw_data_decompression.txt>) to decompress the raw read files.
+
+Refer to section 3.2.9 of the [published protocol](<https://doi.org/10.1007/978-1-0716-2059-5_29>) for more information.
 
 <br />
 
 ## Reference Genome Download
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
