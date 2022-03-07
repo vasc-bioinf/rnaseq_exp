@@ -52,7 +52,7 @@ The steps of the workflow are shown in the flowchart. The tools used are in yell
 
 ## Software and R Packages
 
-Below is a list of the software and R packages used in workflow with the corresponding URL.
+Below is a list of the software and R packages used in the workflow with the corresponding URL.
 
 <br />
 
@@ -89,7 +89,7 @@ GSEA | https://www.gsea-msigdb.org/gsea/index.jsp
 
 The commands used in the workflow, as seen in [software_downloads](software_downloads/) and [pipeline_commands](pipeline_commands/) use relevant file paths. Throughout the workflow, when a path containing "user" is shown (e.g., /home/user/rnaseq_exp), "user" represents the user's name and should be replaced by it.
 
-Key directories to be made prior to software installation and raw data download.
+Key directories to be made prior to software installation and raw data download:
 
 1. Change directory to 'user'
    ```sh
