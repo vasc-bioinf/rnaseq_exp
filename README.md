@@ -159,7 +159,7 @@ Refer to section 3.2.10 of the [published protocol](<https://doi.org/10.1007/978
 
 ## Begin!
 
-Once the required software and R packages have been installed, the workspace created, the raw reads and the genome files downloaded and decompressed the analysis can begin.
+Once the required software and R packages have been installed, the workspace created, the raw reads and genome files downloaded and decompressed the analysis can begin.
 
 Follow the command files in [pipeline_commands](<https://github.com/vasc-bioinf/rnaseq_exp/tree/main/pipeline_commands>) in conjunction with the [published protocol](<https://doi.org/10.1007/978-1-0716-2059-5_29>) to successfully complete the analysis.
 
